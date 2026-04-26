@@ -121,9 +121,9 @@ Kalau mau customize website ini, berikut yang bisa diubah:
 
 Buat yang mau tanya atau discuss tentang aplikasi ini:
 
-- **Email**: info@duckfarmmanager.com
-- **Phone**: +62 812-3456-7890
-- **Social Media**: (Sesuaiin di contact section)
+- **Email**: 
+- **Phone**: 
+- **Social Media**:
 
 ## Browser Support
 
